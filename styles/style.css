@@ -1,0 +1,22 @@
+* {
+    font-family: 'Verdana', sans-serif;
+    font-size: 14pt;
+}
+
+body {
+    background: lightgoldenrodyellow;
+}
+
+h1, h2 {
+    font-family: 'Georgia', sans-serif;
+    color: orangered;
+}
+
+h1 {
+    font-size: 36pt;
+}
+
+h2 {
+    font-size: 24pt;
+}
+
